@@ -64,7 +64,7 @@ function App() {
             </p>
             <div className="mt-8">
               <a 
-                href="#" 
+                href="/(2025, July) Teaka Sowaprux.pdf" 
                 className="inline-flex items-center text-gray-600 hover:text-gray-900 transition-colors text-sm border-b border-gray-300 hover:border-gray-900"
               >
                 <Download className="w-4 h-4 mr-2" />
