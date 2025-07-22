@@ -147,7 +147,7 @@ I teach both undergraduate and graduate students topics in applied linguistics a
               <p className="text-gray-700 leading-relaxed font-light">
                 Examining the implementation and effectiveness of English-Medium Instruction in Thai 
                 higher education, particularly in medical education contexts. This research focuses on 
-                how non-native English speaking instructors adapt their teaching practices and language 
+                how L2 English speaking instructors adapt their teaching practices and language 
                 use to deliver complex academic content effectively through English.
               </p>
             </div>
@@ -190,7 +190,7 @@ I teach both undergraduate and graduate students topics in applied linguistics a
               </p>
               <p className="text-gray-700 text-sm leading-relaxed font-light">
                 This study analyzes discourse patterns in English-Medium Instruction medical classrooms 
-                to identify effective language strategies that can help non-native English speaking 
+                to identify effective language strategies that can help L2 English speaking 
                 teachers improve their instructional delivery.
               </p>
             </div>
@@ -223,7 +223,7 @@ I teach both undergraduate and graduate students topics in applied linguistics a
                 RELC Journal, 2023, 54(3), 907-909
               </p>
               <p className="text-gray-700 text-sm leading-relaxed font-light">
-                A scholarly review examining contemporary approaches to professional development 
+                A book review examining contemporary approaches to professional development 
                 in English language teaching, with implications for teacher training and 
                 continuing education programs.
               </p>
